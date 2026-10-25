@@ -1,8 +1,0 @@
-
-out/
-*.class
-.idea/
-.vscode/
-.DS_Store
-students.csv
-*.iml
